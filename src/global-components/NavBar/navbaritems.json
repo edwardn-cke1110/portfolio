@@ -2,22 +2,22 @@
     "items": [
     {
         "title":"Home",
-        "link":""
+        "link":"/"
     },
     {
         "title":"About",
-        "link":""
+        "link":"/about"
     },
     {
         "title":"Projects",
-        "link":""
+        "link":"/projects"
     },
     {
         "title":"Hobbies",
-        "link":""
+        "link":"/hobbies"
     },
     {
         "title":"Contacts",
-        "link":""
+        "link":"/contacts"
     }]
 }

@@ -4,8 +4,8 @@ export default function Heading({smallHeading, bigHeading}: {smallHeading: strin
 {
     return(
         <div className="Component-heading">
-            <h3>{smallHeading}</h3>
             <h1>{bigHeading}</h1>
+            <h3>{smallHeading}</h3>
         </div>
     )
 }
