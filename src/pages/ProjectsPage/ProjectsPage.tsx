@@ -1,10 +1,10 @@
-import Heading from "../../global-components/Heading/Heading"
+import Container from 'react-bootstrap/Container'
 
-export default function ContactsPage()
+export default function ProjectsPage()
 {
-    return(
-        <div className="Page-contacts">
-            <Heading bigHeading="Projects" smallHeading=""></Heading>
-        </div>
+    return (
+        <Container>
+            Projects
+        </Container>
     )
 }
